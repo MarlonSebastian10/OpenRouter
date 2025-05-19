@@ -1,0 +1,14 @@
+# Ignorar entornos virtuales
+.dsenv/
+
+# Archivos de sistema
+__pycache__/
+*.pyc
+
+# Entornos en general
+venv/
+env/
+ENV/
+
+# Archivos ocultos
+.DS_Store
