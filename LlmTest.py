@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key='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',
+client = OpenAI(api_key='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',
                 base_url='https://openrouter.ai/api/v1')
 
 message = input("Cual es tu pregunta?: ")
